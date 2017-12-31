@@ -1,0 +1,39 @@
+html{
+  text-align: center;
+  font-family: Helvetica;
+}
+#heading{
+  background-image: url(./images/building.png);
+}
+h1{
+  color: white;
+  font-size: 70px;
+}
+h2{
+  font-size: 32px;
+}
+h3{
+  font-size: 23px;
+}
+.btn-nav{
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
+.text{
+  font-size: 14px;
+}
+.designed{
+  background-image: url(./images/building.png);
+  color: white;
+}
+.small{
+  font-size: 11px;
+  color: white;
+  }
+.foot{
+  background-color: dimgray;
+}
+footer{
+  text-align: left;
+}
